@@ -1,2 +1,0 @@
-TOKEN = "YOUR_TOKEN"
-CHANNEL_ID = YOUR_CHANNEL_ID  # Ваш ID канала
